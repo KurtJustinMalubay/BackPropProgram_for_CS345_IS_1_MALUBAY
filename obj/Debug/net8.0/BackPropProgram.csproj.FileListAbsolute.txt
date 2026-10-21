@@ -1,0 +1,14 @@
+C:\Users\tempe\Documents\School\IS\bin\Debug\net8.0\BackPropProgram.exe
+C:\Users\tempe\Documents\School\IS\bin\Debug\net8.0\BackPropProgram.deps.json
+C:\Users\tempe\Documents\School\IS\bin\Debug\net8.0\BackPropProgram.runtimeconfig.json
+C:\Users\tempe\Documents\School\IS\bin\Debug\net8.0\BackPropProgram.dll
+C:\Users\tempe\Documents\School\IS\bin\Debug\net8.0\BackPropProgram.pdb
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\BackPropProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\BackPropProgram.AssemblyInfoInputs.cache
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\BackPropProgram.AssemblyInfo.cs
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\BackPropProgram.csproj.CoreCompileInputs.cache
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\BackPropProgram.dll
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\refint\BackPropProgram.dll
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\BackPropProgram.pdb
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\BackPropProgram.genruntimeconfig.cache
+C:\Users\tempe\Documents\School\IS\obj\Debug\net8.0\ref\BackPropProgram.dll

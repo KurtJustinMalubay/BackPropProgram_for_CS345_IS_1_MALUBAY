@@ -1,0 +1,14 @@
+C:\Users\tempe\Documents\School\IS\bin\Release\net10.0\win-x64\BackPropProgram.exe
+C:\Users\tempe\Documents\School\IS\bin\Release\net10.0\win-x64\BackPropProgram.deps.json
+C:\Users\tempe\Documents\School\IS\bin\Release\net10.0\win-x64\BackPropProgram.runtimeconfig.json
+C:\Users\tempe\Documents\School\IS\bin\Release\net10.0\win-x64\BackPropProgram.dll
+C:\Users\tempe\Documents\School\IS\bin\Release\net10.0\win-x64\BackPropProgram.pdb
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\BackPropProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\BackPropProgram.AssemblyInfoInputs.cache
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\BackPropProgram.AssemblyInfo.cs
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\BackPropProgram.csproj.CoreCompileInputs.cache
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\BackPropProgram.dll
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\refint\BackPropProgram.dll
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\BackPropProgram.pdb
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\BackPropProgram.genruntimeconfig.cache
+C:\Users\tempe\Documents\School\IS\obj\Release\net10.0\win-x64\ref\BackPropProgram.dll

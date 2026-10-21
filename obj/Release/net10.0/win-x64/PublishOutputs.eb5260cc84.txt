@@ -1,0 +1,2 @@
+C:\Users\tempe\Documents\School\IS\bin\Release\net10.0\win-x64\publish\BackPropProgram.pdb
+C:\Users\tempe\Documents\School\IS\bin\Release\net10.0\win-x64\publish\BackPropProgram.exe
